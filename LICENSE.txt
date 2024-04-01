@@ -1,1 +1,2 @@
 I ova  e  nov
+Pravam izmeni na LICENSE i ke gi commitnam tuka lokalno
